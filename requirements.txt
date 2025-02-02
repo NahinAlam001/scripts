@@ -4,4 +4,4 @@ tqdm
 git+https://github.com/openai/CLIP.git
 transformers
 torchvision
-openpyxl --upgrade
+openpyxl
